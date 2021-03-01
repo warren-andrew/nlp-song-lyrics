@@ -4,4 +4,4 @@ Are there particular themes that songwriters tend to express? Can song topics be
 * Data: Million Song Dataset - http://millionsongdataset.com/
 * Features: Song lyrics, genre 
 * Tools Used: Pandas, SQL, Seaborn, sklearn (NMF)
-* Possible impacts of your project: Determine whether song lyrics can be a feature for song recommendation outside of musical attributes.
+* Possible impacts of your project: Determine whether song lyrics can be a feature for song recommendation outside of musical attributes; explore meanings in songs and identify relationship of song lyrics to popularity of song.
